@@ -5,6 +5,7 @@ O bot está em desenvolvimento, feito para estudo e voltado para dar suporte a p
 
 Versões e atualizações:
 
+- Criação do BOT, ainda restam muitas implementações. (03/11/2024)
 
 """
 
